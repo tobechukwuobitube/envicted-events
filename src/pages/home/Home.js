@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <HomeContainer>
       <div className="show-on-desktop">
-        <img src={homeImage} alt="event photo" />
+        <img src={homeImage} alt="event-details" />
       </div>
       <div>
         <header>
@@ -22,7 +22,7 @@ const Home = () => {
           </p>
         </header>
         <section className="home-page-image">
-          <img src={homeImage} alt="event photo" />
+          <img src={homeImage} alt="event-details" />
         </section>
         <section className="create-event">
           <CreateEventButton>🎉 Create my event</CreateEventButton>

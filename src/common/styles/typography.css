@@ -1,3 +1,19 @@
 .text-center {
   text-align: center;
 }
+
+.color-primary-1 {
+  color: #240D57;
+}
+
+.color-primary-2 {
+  color: #501FC1;
+}
+
+.color-primary-3 {
+  color: #8456EC;
+}
+
+.color-primary-4 {
+  color: #E87BF8;
+}
